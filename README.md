@@ -28,5 +28,5 @@ The project aims to predict if a new user purchases the paid version of a FinTec
 
 ### Final F1 score comparisions
 
-![alt text](https://github.com/VinithAngadi/App_Behavior_Analysis/blob/master/images/Model_Output.png)
+![alt text](https://github.com/VinithAngadi/App_Behavior_Analysis/blob/master/images/Models_Output.png)
 
