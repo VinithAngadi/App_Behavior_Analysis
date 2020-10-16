@@ -7,7 +7,7 @@ The project aims to predict if a new user purchases the paid version of a FinTec
 
 ![alt text](https://github.com/VinithAngadi/App_Behavior_Analysis/blob/master/images/output_12_0.png)
 
-###  None of the variables are significantly correlated enough with each other for feature eliination
+###  None of the variables are significantly correlated enough with each other for feature elimination
 
 ![alt text](https://github.com/VinithAngadi/App_Behavior_Analysis/blob/master/images/output_15_1.png)
 
